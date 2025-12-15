@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Это мой второй коммит в лабораторной работе №3");
+            Console.ReadKey();
         }
     }
 }
